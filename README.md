@@ -1,16 +1,16 @@
-## Hi there 👋
+## Всем привет 👋
+Меня зовут Бутузов Евгений!
 
-<!--
-**ButuzovEE/ButuzovEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне:
+Я мечтаю стать инженером машинного обучения для данной цели получил диплом о профпереподготовке МФТИ,
+а также закончил КарповКурсы по данному направлению.
+Люблю путешествовать, проводить время с друзьями и семьей. 
 
-Here are some ideas to get you started:
+## Стэк:
+Transformers, Python, SQL, Bash, Docker, Git, PyTorch, 
+sklearn, SQLAlchemy, SciPy, Seaborn, Matplotlib, 
+Pandas, Numpy, Airflow и др.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts
+mail: bu2z0ff@yandex.ru 
+telegram: @bu2zoff
